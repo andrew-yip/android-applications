@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">tap_button_counter</string>
+
+    <string name="tap_btn">TAP</string>
+    <string name="zero">0</string>
+</resources>
