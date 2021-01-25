@@ -2,6 +2,8 @@ package com.example.tap_button_counter;
 
 import android.app.Activity;
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.util.Log;
 import android.widget.TextView;
 import android.view.Menu;
 import android.view.View;
@@ -17,6 +19,9 @@ public class MainActivity extends AppCompatActivity {
     //VIEW
     private TextView countView;
 
+    // TAG
+    private static final String TAG = "MainActivity";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void countTap(View view){
         count.addCount();
+        Log.i(TAG, "ANDREW'S COUNT: " + count.getCount().toString());
         countView.setText(count.getCount().toString());
     }
 
