@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">cookie_monster</string>
+
+    <!-- STRING USED FOR THE BUTTON -->
+    <string name="eat">EAT COOKIE</string>
+    <string name="done">I DONE</string>
+
+    <!-- STRING USED FOR THE DESCRIPTION -->
+    <string name="hungry">ME IS HUNGRY</string>
+    <string name="full">ME FULL</string>
+</resources>
