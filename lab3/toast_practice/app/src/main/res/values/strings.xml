@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">toast_practice</string>
+    <string name="one">1. What callbacks are called when an app is first launched?</string>
+    <string name="two">2. What callbacks occur when Home is pressed?</string>
+    <string name="three">3. What callbacks occur when an app is restarted from the launcher?</string>
+    <string name="four">4. What callbacks occur when the device is rotated?</string>
+</resources>
