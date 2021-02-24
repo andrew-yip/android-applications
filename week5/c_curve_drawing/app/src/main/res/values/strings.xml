@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">c_curve_drawing</string>
+    <string name="draw_btn">Draw</string>
+    <string name="up_btn">+</string>
+    <string name="down_btn">-</string>
+    <string name="start_level">1</string>
+</resources>

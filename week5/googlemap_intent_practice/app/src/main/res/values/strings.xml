@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">googlemap_intent_practice</string>
+    <string name="statement">Location finder </string>
+    <string name="latitude">latitude: </string>
+    <string name="longitude">longitude: </string>
+    <string name="btn_text">TAKE ME THERE!</string>
+</resources>

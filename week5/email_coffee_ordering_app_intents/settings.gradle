@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "email_coffee_ordering_app_intents"
