@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">threading_experiment</string>
+    <string name="btn1">DO SOME WORK</string>
+    <string name="btn2">SAY HELLO</string>
+</resources>
