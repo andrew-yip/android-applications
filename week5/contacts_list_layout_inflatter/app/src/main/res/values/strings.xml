@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">harry_potter_family_contacts</string>
+    <string name="name">Name</string>
+    <string name="relationship">Relationship</string>
+</resources>
