@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "custom_family_contact_array_adapter"
