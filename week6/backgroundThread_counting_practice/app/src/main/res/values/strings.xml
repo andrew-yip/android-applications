@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">backgroundThread_counting_practice</string>
+    <string name="counter">0</string>
+    <string name="start">START COUNTER (THREAD)</string>
+    <string name="stop">STOP COUNTER (THREAD)</string>
+</resources>
