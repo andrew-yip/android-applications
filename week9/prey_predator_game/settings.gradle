@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "prey_predator_game"
